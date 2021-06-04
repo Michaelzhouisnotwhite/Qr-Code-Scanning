@@ -1,0 +1,6 @@
+# python3.7.9
+opencv-contrib-python
+opencv-python
+PLT
+pyzbar
+
