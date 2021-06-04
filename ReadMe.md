@@ -1,7 +1,13 @@
 # QR code Scanning (Python in Windows)
 ----------------------
+## **Contents:**
 
-[TOC]
+1. [Install the python package](#install)
+
+2. [Run the python file](#run)
+
+3. [License](#license)
+
 
 
 ### **Install:**
@@ -15,5 +21,5 @@ python QrCodeScanning.py
 ```
 
 ### **License:**
-You Can Diy in any ways
+You Can Diy in any ways. [LICENSE](Qr-Code-Scanning/LICENSE)
 
